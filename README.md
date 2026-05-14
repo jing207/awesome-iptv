@@ -124,7 +124,6 @@ Applications with support of IPTV streams.
 - [pytermv](https://github.com/Ahmed-Zamouche/pytermv) - A terminal IPTV player written in python.
 - [Open TV](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app.
 - [TVHplayer](https://github.com/mfat/tvhplayer) - Cross-platform desktop client for TVheadend using vlc as playback engine, featuring EPG, remote (DVR) and local recording.
-- [yuki-iptv](https://codeberg.org/liya/yuki-iptv) - IPTV player with EPG support.
 - [AuthoIPTV](https://github.com/glitport/AuthoIPTV) - A feature-rich Electron-powered IPTV player designed for desktop users.
 - [QiTV](https://github.com/ozankaraali/QiTV) - A cross-platform STB, Xtream and IPTV player.
 - [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
