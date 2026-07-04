@@ -94,6 +94,7 @@ Applications with support of IPTV streams.
 - [Nightmare TV](https://apps.microsoft.com/detail/9PLPLGHTVB5G) - libmpv-based IPTV/M3U/Xtream Codes player for Windows with HDR tone-mapping (BT.2390), Dolby Atmos/DTS-X passthrough, and multi-view.
 - [sbtlTV](https://github.com/thesubtleties/sbtlTV) - A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.
 - [Blazin IPTV Player](https://apps.microsoft.com/detail/9nq5s0ffcn8t?hl=en-US&gl=US) - All-in-one Windows IPTV player for Xtream, STB MAC, Stalker, M3U files, and M3U URLs with multi-threaded playlist loading and built-in VLC playback.
+- [Lotus Engine](https://github.com/hieu-TQS/MediaLedInterface) - A free, open-source desktop IPTV player that supports Digital Rights Management for Media Presentation Description.
 
 #### macOS
 
@@ -118,6 +119,7 @@ Applications with support of IPTV streams.
 - [sbtlTV](https://github.com/thesubtleties/sbtlTV) - A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.
 - [ShallowTV](https://apps.apple.com/us/app/shallowtv/id6757123182?platform=mac) - Free IPTV player with M3U playlist support for Mac, iPhone, iPad, Apple TV and Apple Vision Pro.
 - [Streamline](https://apps.apple.com/us/app/streamline-iptv-m3u-editor/id6760606054?platform=mac) - Free M3U and IPTV playlist editor with duplicate detection, ffmpeg-based playback and a built-in HTTP server for managing playlists.
+- [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=mac) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
 
 #### Linux
 
@@ -210,6 +212,7 @@ Applications with support of IPTV streams.
 - [Another IPTV Player](https://apps.apple.com/us/app/another-iptv-player/id6747290392?platform=iphone) - Lightweight, free and open-source native player with M3U support, offline downloads, Picture-in-Picture, background playback, watch history, and per-series audio/subtitle track memory.
 - [ShallowTV](https://apps.apple.com/us/app/shallowtv/id6757123182?platform=iphone) - Free IPTV player with M3U playlist support for iPhone, iPad, Mac, Apple TV and Apple Vision Pro.
 - [Tilfaz](https://apps.apple.com/us/app/tilfaz-live-on-demand-iptv/id1668359578?platform=iphone) - Native player for M3U and Xtream sources with 4K playback, family profiles with per-title parental controls, App Lock, incognito mode, and a library, watch history, and favorites that sync across iPhone, iPad, and Apple TV.
+- [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=iphone) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
 
 #### iPad
 
@@ -234,6 +237,7 @@ Applications with support of IPTV streams.
 - [Another IPTV Player](https://apps.apple.com/us/app/another-iptv-player/id6747290392?platform=ipad) - Lightweight, free and open-source native player with M3U support, offline downloads, Picture-in-Picture, background playback, watch history, and per-series audio/subtitle track memory.
 - [ShallowTV](https://apps.apple.com/us/app/shallowtv/id6757123182?platform=ipad) - Free IPTV player with M3U playlist support for iPad, iPhone, Mac, Apple TV and Apple Vision Pro.
 - [Tilfaz](https://apps.apple.com/us/app/tilfaz-live-on-demand-iptv/id1668359578?platform=ipad) - Native player for M3U and Xtream sources with 4K playback, family profiles with per-title parental controls, App Lock, incognito mode, and a library, watch history, and favorites that sync across iPhone, iPad, and Apple TV.
+- [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=ipad) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
 
 #### Apple Watch
 
@@ -257,6 +261,7 @@ Applications with support of IPTV streams.
 - [Velko](https://apps.apple.com/us/app/velko-iptv-player-tv-guide/id6775969853?platform=tv) - Native player for Xtream/M3U services with a classic EPG guide, catch-up, and a free built-in Community TV source powered by the iptv-org playlist.
 - [ScoreBox](https://apps.apple.com/app/scorebox-sports-iptv/id6774886350?platform=tv) - Sports focused IPTV player that finds the channels carrying each game across your providers, for the teams and leagues you follow.
 - [Tilfaz](https://apps.apple.com/us/app/tilfaz-live-on-demand-iptv/id1668359578?platform=tv) - Native player for M3U and Xtream sources with 4K playback, family profiles with per-title parental controls, App Lock, incognito mode, and a library, watch history, and favorites that sync across iPhone, iPad, and Apple TV.
+- [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=tv) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
 
 #### Apple Vision Pro
 
@@ -273,6 +278,7 @@ Applications with support of IPTV streams.
 - [Nightmare TV](https://github.com/zeze89/nightmare-tv-releases/releases/latest) - libmpv-based IPTV/M3U/Xtream Codes player for Android TV with HDR tone-mapping, Dolby Atmos/DTS-X passthrough, and multi-view.
 - [ScoreBox](https://play.google.com/store/apps/details?id=net.darkforeststudios.scorebox) - Sports focused IPTV player that finds the channels carrying each game across your providers, for the teams and leagues you follow.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source IPTV/M3U player for Android TV with channel grouping, search, EPG, and a companion phone app for remote text input over the LAN.
+- [Easy IP TV](https://play.google.com/store/apps/details?id=com.easyiptv.tv) - Android TV and Google TV player that processes your M3U playlist server-side for instant loading of huge playlists, with an EPG guide, favorites, hidden channels, and D-pad remote navigation.
 - [Klipa](https://play.google.com/store/apps/details?id=klipa.tv) - Free M3U and Xtream Codes player with EPG and a remote-friendly layout, no ads or account.
 
 #### WebOS
