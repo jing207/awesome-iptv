@@ -93,6 +93,7 @@ Applications with support of IPTV streams.
 - [sbtlTV](https://github.com/thesubtleties/sbtlTV) - A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.
 - [Blazin IPTV Player](https://apps.microsoft.com/detail/9nq5s0ffcn8t?hl=en-US&gl=US) - All-in-one Windows IPTV player for Xtream, STB MAC, Stalker, M3U files, and M3U URLs with multi-threaded playlist loading and built-in VLC playback.
 - [Lotus Engine](https://github.com/hieu-TQS/MediaLedInterface) - A free, open-source desktop IPTV player that supports Digital Rights Management for Media Presentation Description.
+- [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
 
 #### macOS
 
@@ -120,6 +121,7 @@ Applications with support of IPTV streams.
 - [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=mac) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
 - [Nightmare TV](https://github.com/zeze89/nightmare-tv-releases/releases/latest) - libmpv-based IPTV/M3U/Xtream Codes player for macOS (beta) with HDR tone-mapping (BT.2390), 4K HEVC/AV1 hardware decode, and multi-view.
 - [Dion](https://apps.apple.com/es/app/dion-media-center/id6761329047?platform=mac) - Media center for Xtream, M3U, Stremio add-ons, Plex and Jellyfin sources with EPG, iCloud sync, multiplayer playback and 4K HDR.
+- [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
 
 #### Linux
 
@@ -145,6 +147,7 @@ Applications with support of IPTV streams.
 - [IPTV Checker](https://github.com/kristofferR/IPTVChecker) - Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.
 - [IPTV Controller Pro](https://github.com/tanmay1117/Iptv-on-mpv-) - A high-performance, cross-platform IPTV browser built with Python and the MPV engine.
 - [sbtlTV](https://github.com/thesubtleties/sbtlTV) - A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.
+- [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
 
 #### Android
 
@@ -214,6 +217,7 @@ Applications with support of IPTV streams.
 - [Tilfaz](https://apps.apple.com/us/app/tilfaz-live-on-demand-iptv/id1668359578?platform=iphone) - Native player for M3U and Xtream sources with 4K playback, family profiles with per-title parental controls, App Lock, incognito mode, and a library, watch history, and favorites that sync across iPhone, iPad, and Apple TV.
 - [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=iphone) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
 - [Dion](https://apps.apple.com/es/app/dion-media-center/id6761329047?platform=iphone) - Media center for Xtream, M3U, Stremio add-ons, Plex and Jellyfin sources with EPG, iCloud sync, multiplayer playback and 4K HDR.
+- [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source IPTV/M3U player for iPhone with channel grouping, search, EPG, and favorites.
 
 #### iPad
 
@@ -240,6 +244,7 @@ Applications with support of IPTV streams.
 - [Tilfaz](https://apps.apple.com/us/app/tilfaz-live-on-demand-iptv/id1668359578?platform=ipad) - Native player for M3U and Xtream sources with 4K playback, family profiles with per-title parental controls, App Lock, incognito mode, and a library, watch history, and favorites that sync across iPhone, iPad, and Apple TV.
 - [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=ipad) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
 - [Dion](https://apps.apple.com/es/app/dion-media-center/id6761329047?platform=ipad) - Media center for Xtream, M3U, Stremio add-ons, Plex and Jellyfin sources with EPG, iCloud sync, multiplayer playback and 4K HDR.
+- [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source IPTV/M3U player for iPad with channel grouping, search, EPG, and favorites.
 
 #### Apple Watch
 
