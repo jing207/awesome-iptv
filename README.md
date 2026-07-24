@@ -221,6 +221,7 @@ Applications with support of IPTV streams.
 - [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=iphone) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
 - [Dion](https://apps.apple.com/es/app/dion-media-center/id6761329047?platform=iphone) - Media center for Xtream, M3U, Stremio add-ons, Plex and Jellyfin sources with EPG, iCloud sync, multiplayer playback and 4K HDR.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source IPTV/M3U player for iPhone with channel grouping, search, EPG, and favorites.
+- [Pulsar IPTV](https://apps.apple.com/es/app/pulsar-iptv/id6772932662?platform=iphone) - Native IPTV player for iPhone, iPad and Apple TV with M3U and Xtream Codes support, clean UI and lifetime purchase option.
 
 #### iPad
 
@@ -248,6 +249,7 @@ Applications with support of IPTV streams.
 - [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=ipad) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
 - [Dion](https://apps.apple.com/es/app/dion-media-center/id6761329047?platform=ipad) - Media center for Xtream, M3U, Stremio add-ons, Plex and Jellyfin sources with EPG, iCloud sync, multiplayer playback and 4K HDR.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source IPTV/M3U player for iPad with channel grouping, search, EPG, and favorites.
+- [Pulsar IPTV](https://apps.apple.com/es/app/pulsar-iptv/id6772932662?platform=ipad) - Native IPTV player for iPhone, iPad and Apple TV with M3U and Xtream Codes support, clean UI and lifetime purchase option.
 
 #### Apple Watch
 
@@ -273,6 +275,7 @@ Applications with support of IPTV streams.
 - [Tilfaz](https://apps.apple.com/us/app/tilfaz-live-on-demand-iptv/id1668359578?platform=tv) - Native player for M3U and Xtream sources with 4K playback, family profiles with per-title parental controls, App Lock, incognito mode, and a library, watch history, and favorites that sync across iPhone, iPad, and Apple TV.
 - [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=tv) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
 - [Dion](https://apps.apple.com/es/app/dion-media-center/id6761329047?platform=tv) - Media center for Xtream, M3U, Stremio add-ons, Plex and Jellyfin sources with EPG, iCloud sync, multiplayer playback and 4K HDR.
+- [Pulsar IPTV](https://apps.apple.com/es/app/pulsar-iptv/id6772932662?platform=tv) - Native IPTV player for iPhone, iPad and Apple TV with M3U and Xtream Codes support, clean UI and lifetime purchase option.
 
 #### Apple Vision Pro
 
